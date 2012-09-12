@@ -10,3 +10,6 @@
 [submodule "patriciogv_algo2012"]
 	path = patriciogv_algo2012
 	url = https://github.com/patriciogonzalezvivo/patriciogv_algo2012
+[submodule "juanP_algo2012"]
+	path = juanP_algo2012
+	url = https://github.com/patinoart/juanP_algo2012.git
