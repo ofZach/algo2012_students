@@ -16,3 +16,12 @@
 [submodule "navit_algo2012"]
 	path = navit_algo2012
 	url = https://github.com/navit/navit_algo2012
+[submodule "junsikjasonkim_algo2012"]
+	path = junsikjasonkim_algo2012
+	url = https://github.com/jasonkim1006/junsikjasonkim_algo2012.git
+[submodule "Paul__algo2012"]
+	path = Paul__algo2012
+	url = https://github.com/bestpaul1985/Paul__algo2012.git
+[submodule "maniNilchiani_algo2012"]
+	path = maniNilchiani_algo2012
+	url = https://github.com/maniart/maniNilchiani_algo2012.git
