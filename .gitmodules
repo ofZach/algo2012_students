@@ -3,7 +3,7 @@
 	url = https://github.com/ofZach/zach_algo2012_testRepo.git
 [submodule "firm_algo2012"]
 	path = firm_algo2012
-	url = https://github.com:firmread/firm_algo2012.git
+	url = https://github.com/firmread/firm_algo2012.git
 [submodule "jane_algo2012"]
 	path = jane_algo2012
 	url = https://github.com/friej715/jane_algo2012.git
