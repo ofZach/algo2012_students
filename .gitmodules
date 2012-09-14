@@ -46,3 +46,10 @@
 [submodule "noadol_algo2012"]
 	path = noadol_algo2012
 	url = https://github.com/noadol/noadol_algo2012.git
+[submodule "mattfelsen_algo2012"]
+	path = mattfelsen_algo2012
+	url = https://github.com/mattfelsen/mattfelsen_algo2012.git
+[submodule "ramiro_algo2012"]
+	path = ramiro_algo2012
+	url = https://github.com/corbetta/ramiro_algo2012.git
+
