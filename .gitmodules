@@ -43,3 +43,6 @@
 [submodule "conorRussomanno_algo2012"]
 	path = conorRussomanno_algo2012
 	url = ssh://github.com/crussoma/conorRussomanno_algo2012.git
+[submodule "noadol_algo2012"]
+	path = noadol_algo2012
+	url = https://github.com/noadol/noadol_algo2012.git
