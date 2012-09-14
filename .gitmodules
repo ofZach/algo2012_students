@@ -1,48 +1,48 @@
 [submodule "zach_algo2012_testRepo"]
 	path = zach_algo2012_testRepo
-	url = ssh://github.com/ofZach/zach_algo2012_testRepo.git
+	url = https://github.com/ofZach/zach_algo2012_testRepo.git
 [submodule "firm_algo2012"]
 	path = firm_algo2012
-	url = ssh://github.com:firmread/firm_algo2012.git
+	url = https://github.com:firmread/firm_algo2012.git
 [submodule "jane_algo2012"]
 	path = jane_algo2012
-	url = ssh://github.com/friej715/jane_algo2012.git
+	url = https://github.com/friej715/jane_algo2012.git
 [submodule "patriciogv_algo2012"]
 	path = patriciogv_algo2012
-	url = ssh://github.com/patriciogonzalezvivo/patriciogv_algo2012
+	url = https://github.com/patriciogonzalezvivo/patriciogv_algo2012
 [submodule "juanP_algo2012"]
 	path = juanP_algo2012
-	url = ssh://github.com/patinoart/juanP_algo2012.git
+	url = https://github.com/patinoart/juanP_algo2012.git
 [submodule "navit_algo2012"]
 	path = navit_algo2012
-	url = ssh://github.com/navit/navit_algo2012
+	url = https://github.com/navit/navit_algo2012
 [submodule "junsikjasonkim_algo2012"]
 	path = junsikjasonkim_algo2012
-	url = ssh://github.com/jasonkim1006/junsikjasonkim_algo2012.git
+	url = https://github.com/jasonkim1006/junsikjasonkim_algo2012.git
 [submodule "Paul__algo2012"]
 	path = Paul__algo2012
-	url = ssh://github.com/bestpaul1985/Paul__algo2012.git
+	url = https://github.com/bestpaul1985/Paul__algo2012.git
 [submodule "maniNilchiani_algo2012"]
 	path = maniNilchiani_algo2012
-	url = ssh://github.com/maniart/maniNilchiani_algo2012.git
+	url = https://github.com/maniart/maniNilchiani_algo2012.git
 [submodule "maya_algo2012"]
 	path = maya_algo2012
-	url = ssh://github.com/mayaw/maya_algo2012.git
+	url = https://github.com/mayaw/maya_algo2012.git
 [submodule "MichaelGonzalez_algo2012"]
 	path = MichaelGonzalez_algo2012
-	url = ssh://github.com/bori7189/MichaelGonzalez_algo2012.git
+	url = https://github.com/bori7189/MichaelGonzalez_algo2012.git
 [submodule "catalina_algo2012"]
 	path = catalina_algo2012
-	url = ssh://github.com/catacortazar/catalina_algo2012.git
+	url = https://github.com/catacortazar/catalina_algo2012.git
 [submodule "brian_algo2012"]
 	path = brian_algo2012
-	url = ssh://github.com/ogthugs/brian_algo2012.git
+	url = https://github.com/ogthugs/brian_algo2012.git
 [submodule "yinan_algo2012"]
 	path = yinan_algo2012
-	url = ssh://github.com/yinanzzz/yinan_algo2012.git
+	url = https://github.com/yinanzzz/yinan_algo2012.git
 [submodule "conorRussomanno_algo2012"]
 	path = conorRussomanno_algo2012
-	url = ssh://github.com/crussoma/conorRussomanno_algo2012.git
+	url = https://github.com/crussoma/conorRussomanno_algo2012.git
 [submodule "noadol_algo2012"]
 	path = noadol_algo2012
 	url = https://github.com/noadol/noadol_algo2012.git
@@ -52,4 +52,3 @@
 [submodule "ramiro_algo2012"]
 	path = ramiro_algo2012
 	url = https://github.com/corbetta/ramiro_algo2012.git
-
