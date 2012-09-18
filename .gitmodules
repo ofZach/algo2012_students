@@ -52,3 +52,6 @@
 [submodule "ramiro_algo2012"]
 	path = ramiro_algo2012
 	url = https://github.com/corbetta/ramiro_algo2012.git
+[submodule "AmiraAnne_algo2012"]
+	path = AmiraAnne_algo2012
+	url = https://github.com/Amiraanne/AmiraAnne_algo2012.git
