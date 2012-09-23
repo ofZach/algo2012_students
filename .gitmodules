@@ -55,3 +55,7 @@
 [submodule "AmiraAnne_algo2012"]
 	path = AmiraAnne_algo2012
 	url = https://github.com/Amiraanne/AmiraAnne_algo2012.git
+[submodule "shankari_algo2012"]
+        path = shankari_algo2012
+        url = https://github.com/shankarimurali/shankari_algo2012.git
+
