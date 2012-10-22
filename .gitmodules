@@ -58,18 +58,12 @@
 [submodule "shankari_algo2012"]
         path = shankari_algo2012
         url = https://github.com/shankarimurali/shankari_algo2012.git
-[submodule "peter_algo2012"]
-        path = peter_algo2012
-        url = https://github.com/PedroKim/peter_algo2012.git
 [submodule "HsinyingChiu_algo2012"]
         path = HsinyingChiu_algo2012
         url = https://github.com/HsinyingChiu/HsinyingChiu_algo2012.git
 [submodule "anthony_algo-2012"]
         path = anthony_algo-2012
         url = https://github.com/terra823/anthony_algo-2012.git
-
-
-
 [submodule "KasiaWitek_algo2012"]
 	path = KasiaWitek_algo2012
 	url = https://github.com/scattegorized/KasiaWitek_algo2012.git
