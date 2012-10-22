@@ -67,3 +67,7 @@
 [submodule "KasiaWitek_algo2012"]
 	path = KasiaWitek_algo2012
 	url = https://github.com/scattegorized/KasiaWitek_algo2012.git
+[submodule "peter_algo2012"]
+	path = peter_algo2012
+	url = git@github.com:PedroKim/peter_algo2012.git
+
