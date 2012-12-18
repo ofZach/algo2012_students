@@ -70,4 +70,6 @@
 [submodule "peter_algo2012"]
 	path = peter_algo2012
 	url = git@github.com:PedroKim/peter_algo2012.git
-
+[submodule "AlexS_Algo2012"]
+        path = AlexS_Algo2012
+        url = git@github.com:FuzzyWobble/AlexS_Algo2012.git
